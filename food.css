@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: white;
+    font-size: 15px;
+    font-family:  sans-serif;
+    text-align: left;
+    font-weight: 400;
+    line-height: 1.35;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+img{
+    max-width: 100%;
+}
+.phandau{
+    background-color: white;
+}
+.shopcat{
+    float: none;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+}
+.meoanhlongngan{
+    font-size: 23px;
+    margin-left: 80px;
+}
+.buy{
+    text-align: left;
+    margin-left: 10px;
+}
+.meo{
+    font-size: 100px;
+    text-align: center;
+    background-color: #f0fa95;
+    color: white;
+}
+
+

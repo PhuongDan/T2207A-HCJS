@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #00b466;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: 400;
+    line-height: 1.35;
+}
+a {
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+img{
+    max-width: 100%;
+}
+.nav{
+    text-align: center;
+}
