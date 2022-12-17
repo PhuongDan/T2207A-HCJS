@@ -1,0 +1,16 @@
+.a{
+background-color: white;
+    margin-top:50px;
+    margin-right: 200px;
+    margin-left: 200px;
+    height: 600px;
+}
+.b{
+    box-sizing: border-box;
+    margin-left: 350px;
+    margin-right:400px;
+}
+.c{
+    background-color: #0dcaf0;
+height: 800px;
+}
